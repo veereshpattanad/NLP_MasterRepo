@@ -1,0 +1,36 @@
+# Core Python packages
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.8.0
+seaborn>=0.12.2
+tqdm>=4.66.0
+PyYAML>=6.0.1
+
+# NLP essentials
+nltk>=3.8.1
+spacy>=3.7.0
+gensim>=4.3.2
+textblob>=0.17.1
+langdetect>=1.0.9
+beautifulsoup4>=4.12.3
+regex>=2023.10.3
+
+# Deep learning
+torch>=2.3.0
+torchvision>=0.18.0
+transformers>=4.43.0
+sentence-transformers>=2.6.0
+
+# Large-scale processing
+pyspark>=3.5.0
+
+# Experiment tracking and MLOps
+mlflow>=2.14.0
+
+# Optional utilities
+# ipykernel
+# notebook
+# jupyterlab
+plotly
+# wordcloud
